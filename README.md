@@ -1,2 +1,4 @@
-# SF_DC_K
-FS_hwork
+# My data science projects
+
+## Проекты
+* [Программа 1]
